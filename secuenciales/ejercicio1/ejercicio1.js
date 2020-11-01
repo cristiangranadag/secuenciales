@@ -10,7 +10,7 @@ let nota3;
 let media;
 let examen;
 let trabajo;
-let resultado=0;
+//let resultado=0;
 
 nota1 = Number(prompt('Ingrese la primera nota de parcial: '));
 nota2 = Number(prompt('Ingrese la segunda nota de parcial: '));

@@ -19,4 +19,14 @@ pro1 = (100*nro1)/total;
 pro2 = (100*nro2)/total;
 pro3 = (100*nro3)/total;
 
-alert("El numero #1 "+pro1);
+alert("El numero #1 "+pro1+"%");
+alert("El numero #2 "+pro2+"%");
+alert("El numero #3 "+pro3+"%");
+
+document.write("El numero #1 "+pro1+"%, ");
+document.write("El numero #2 "+pro2+"%, ");
+document.write("El numero #3 "+pro3+"%");
+
+console.log("El numero #1 "+pro1+"%");
+console.log("El numero #2 "+pro2+"%");
+console.log("El numero #3 "+pro3+"%");

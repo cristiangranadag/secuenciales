@@ -4,6 +4,20 @@
 //  30% de la calificación del examen final.
 //  15% de la calificación de un trabajo final.
 
+/*let parc1;
+let parc2;
+let parc3;
+let pro;
+let examen;
+let trabajo;
+let calif;
+
+parc1 = Number(prompt('Ingrese parcial #1: '));
+parc2 = Number(prompt('Ingrese parcial #2: '));
+parc3 = Number(prompt('Ingrese parcial #3: '));
+examen = Number(prompt('Ingrese un examen final: '));
+parc1 = Number(prompt('Ingrese un trabajo final: '));*/
+
 let nota1;
 let nota2;
 let nota3;
@@ -15,7 +29,7 @@ let resultado=0;
 nota1 = Number(prompt('Ingrese la primera nota de parcial: '));
 nota2 = Number(prompt('Ingrese la segunda nota de parcial: '));
 nota3 = Number(prompt('Ingrese la tercera nota de parcial: '));
-exmaen = Number(prompt('Ingrese la nota del examen final: '));
+examen = Number(prompt('Ingrese la nota del examen final: '));
 trabajo = Number(prompt('Ingrese la nota del trabajo final: '));
 
 media=(nota1+nota2+nota3)/3;

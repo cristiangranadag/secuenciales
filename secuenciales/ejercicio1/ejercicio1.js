@@ -4,20 +4,6 @@
 //  30% de la calificación del examen final.
 //  15% de la calificación de un trabajo final.
 
-/*let parc1;
-let parc2;
-let parc3;
-let pro;
-let examen;
-let trabajo;
-let calif;
-
-parc1 = Number(prompt('Ingrese parcial #1: '));
-parc2 = Number(prompt('Ingrese parcial #2: '));
-parc3 = Number(prompt('Ingrese parcial #3: '));
-examen = Number(prompt('Ingrese un examen final: '));
-parc1 = Number(prompt('Ingrese un trabajo final: '));*/
-
 let nota1;
 let nota2;
 let nota3;
